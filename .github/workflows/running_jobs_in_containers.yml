@@ -1,4 +1,4 @@
-name: PostgreSQL Service Example
+name: PostgreSQL Service Example (running_jobs_in_containers)
 on: push
 
 jobs:
